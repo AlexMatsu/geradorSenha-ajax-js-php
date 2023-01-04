@@ -11,5 +11,5 @@ Projeto em PHP Gerador de senha com base em um número de caracteres digitado.
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Alex Oliveira](https://img.shields.io/badge/-arnaldocarpi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisalexmce)](https://www.linkedin.com/in/luisalexmce) 
+[![Linkedin: Alex Oliveira](https://img.shields.io/badge/-alexoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisalexmce)](https://www.linkedin.com/in/luisalexmce) 
  
